@@ -1,0 +1,52 @@
+* {
+    
+    background-color: #E8E8E8;
+}
+
+
+.logout {
+    float: right;
+    width: 280px;
+    margin-top: 60px;
+    font-size: 20px;
+    
+
+}
+
+.to_main {
+    float: left;
+    width: 25%;
+    margin-top: 10%;
+    
+}
+
+#header{
+    border: 1px solid black;
+    background-color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 20px; 
+   
+}
+ 
+ div{
+    margin: 10px;
+    font-size: 20px;
+    height: 80px;
+}
+
+h1 {
+    background-color: white;
+
+}
+
+.internal_links {
+    margin-top: 4%;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Calibri';
+    font-weight: 100;
+    font-size: x-large;
+}
